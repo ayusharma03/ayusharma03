@@ -13,7 +13,7 @@
 
 <br/>
 
-## My Skill Set
+## 🧠 My Skill Set
 
 <table><tr><td valign="top" width="33%">
 
@@ -53,6 +53,8 @@
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200" height="5">
+
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/ayusharma3/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](discordapp.com/users/524146706393071626)
@@ -61,18 +63,17 @@
 
 [![An image of @ayusharma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayusharma)](https://holopin.io/@ayusharma)
 
-## 🏆 GitHub Trophies
+## 🏆 LeetCode
 
-![](https://github-profile-trophy.vercel.app/?username=ayusharma03&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
+![](https://leetcard.jacoblin.cool/ayusharma03?ext=activity)
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=ayusharma03&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ayusharma03&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayusharma03&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ayusharma03&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)            ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayusharma03&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200" height="5">
 
 ### 🔝 Top Contributed Repo
-
 ## ![](https://github-contributor-stats.vercel.app/api?username=ayusharma03&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=ayusharma03&icon=2&color=6)](https://visitcount.itsvg.in)
