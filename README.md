@@ -1,7 +1,8 @@
-<img src="[https://rishavanand.github.io/static/images/greetings.gif](https://i.pinimg.com/originals/10/0e/df/100edf92e5daf9ea85f1e7b421b7a6cb.gif)" align="left" style="width: 100%" />  
+<img src="[https://i.pinimg.com/originals/10/0e/df/100edf92e5daf9ea85f1e7b421b7a6cb.gif]" align="left" style="width: 100%" />  
   
 
-### <div align="center">I'm Ayush, a full-time full-stack, Computer Science Student👨‍💻</div>  
+### <div align="center">I'm Ayush, a full-time full-stack, Computer Science Student👨‍💻</div>
+
   
 
 - 🔭 I’m currently working on Projects  
@@ -21,7 +22,6 @@
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 
 
 ### Frontend  
@@ -48,7 +48,6 @@
 </td><td valign="top" width="33%">
 
 
-
 ### Languages  
 <div align="center">  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
@@ -64,24 +63,15 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/ayusharma3/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](discordapp.com/users/524146706393071626) 
 
-### 🏅 Hacktoberfest:
-Open Source contributions[![An image of @ayusharma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayusharma)](https://holopin.io/@ayusharma)
-
+## 🏅 Hacktoberfest:
+[![An image of @ayusharma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayusharma)](https://holopin.io/@ayusharma)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ayusharma03&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ayusharma03&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-
-<br />
 
 
 # 📊 GitHub Stats:
