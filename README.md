@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm a passionate developer with a strong focus on MERN stack development and machine learning. I have a rich background in various technical skills, including Google Cloud, TensorFlow, Java, C, Python, Firebase, JavaScript, HTML, CSS, React, and Unity. My enthusiasm for technology drives me to continuously explore and innovate, and I'm excited to collaborate on projects that push the boundaries of what's possible. Let's build something amazing together!<br><br><br><br><br><br><br>
+Hi there! I'm a passionate developer with a strong focus on MERN stack development and machine learning. I have a rich background in various technical skills, including Google Cloud, TensorFlow, Java, C, Python, Firebase, JavaScript, HTML, CSS, React, and Unity. My enthusiasm for technology drives me to continuously explore and innovate, and I'm excited to collaborate on projects that push the boundaries of what's possible. Let's build something amazing together!<br><br><br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/524146706393071626) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayusharma3/) 
@@ -11,8 +11,8 @@ Hi there! I'm a passionate developer with a strong focus on MERN stack developme
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayusharma03&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayusharma03&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🏅 Hacktoberfest Contributions:
-Open Source [![An image of @ayusharma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayusharma)](https://holopin.io/@ayusharma)
+### 🏅 Hacktoberfest:
+Open Source contributions throughout years [![An image of @ayusharma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayusharma)](https://holopin.io/@ayusharma)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ayusharma03&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
