@@ -69,7 +69,7 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ayusharma03&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ayusharma03&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ayusharma03&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
@@ -80,17 +80,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ayusharma03&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
 [![](https://visitcount.itsvg.in/api?id=ayusharma03&icon=2&color=6)](https://visitcount.itsvg.in)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
