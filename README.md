@@ -1,8 +1,6 @@
-<img src="https://i.gifer.com/5Tz.gif" align="left" style="width: 10%" />  
 
 
-## <div align="center">I'm Ayush, a full-time full-stack, Computer Science Student👨‍💻</div>
-
+## <img src="https://gifdb.com/images/high/hello-madagascar-penguin-7pernnlu5b6aad3y.gif" align="left" style="width: 80px" style="height: 80px" />  <div align="left">I'm Ayush, a full-time full-stack, Computer Science Student👨‍💻</div>
   <br>
 
 - 🔭 I’m currently working on Projects
