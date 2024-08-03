@@ -3,7 +3,7 @@
 
 ## <div align="center">I'm Ayush, a full-time full-stack, Computer Science Student👨‍💻</div>
 
-  
+  <br>
 
 - 🔭 I’m currently working on Projects  
   
@@ -60,11 +60,10 @@
 
 <br/>  
 
-## 🌐 Socials:
+##🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/ayusharma3/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](discordapp.com/users/524146706393071626)
 
-<hr>
-## 🏅 Hacktoberfest:
+##🏅 Hacktoberfest:
 [![An image of @ayusharma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayusharma)](https://holopin.io/@ayusharma)
 
 ## 🏆 GitHub Trophies
