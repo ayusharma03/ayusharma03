@@ -1,8 +1,8 @@
 # 💫 About Me:
-Hi there! I'm a passionate developer with a strong focus on MERN stack development and machine learning. I have a rich background in various technical skills, including Google Cloud, TensorFlow, Java, C, Python, Firebase, JavaScript, HTML, CSS, React. My enthusiasm for technology drives me to continuously explore and innovate, and I'm excited to collaborate on projects that push the boundaries of what's possible. Let's build something amazing together!<br><br>
+Hi, I'm Ayush, a computer science student specializing in Artificial Intelligence and Machine Learning, with a strong focus on MERN stack development. I have a rich background in various technical skills, including Google Cloud, TensorFlow, Java, C, Python, Firebase, JavaScript, HTML, CSS, React. My enthusiasm for technology drives me to continuously explore and innovate, and I'm excited to collaborate on projects that push the boundaries of what's possible. Let's build something amazing together!<br><br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/ayusharma3/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/524146706393071626) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/ayusharma3/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](discordapp.com/users/524146706393071626) 
 
 ### 🏅 Hacktoberfest:
 Open Source contributions[![An image of @ayusharma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayusharma)](https://holopin.io/@ayusharma)
