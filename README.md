@@ -53,15 +53,15 @@
 
 <br/>
 
+## 🏅 Hacktoberfest:
+
+[![An image of @ayusharma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayusharma)](https://holopin.io/@ayusharma)
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200" height="5">
 
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/ayusharma3/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](discordapp.com/users/524146706393071626)
-
-## 🏅 Hacktoberfest:
-
-[![An image of @ayusharma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayusharma)](https://holopin.io/@ayusharma)
 
 ## 🏆 LeetCode
 
