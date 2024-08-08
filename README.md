@@ -2,7 +2,10 @@
 
 ## <img src="https://gifdb.com/images/high/hello-madagascar-penguin-7pernnlu5b6aad3y.gif" align="left" width="80" height="80"/>  <div align="left">‎ ‎ ‎ ‎ ‎ ‎ I'm Ayush, a full-time full-stack, Computer Science Student👨‍💻</div>
   <br><br>
+<img src="https://github.com/user-attachments/assets/cdf6c06f-9cdf-4990-bb98-b903501ed824" align="right" height="200">
 
+
+  
 - 🔭 I’m currently working on Projects
 
 - 🌱 I’m currently learning Machine Learning and Mern Technologies
@@ -61,8 +64,15 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/ayusharma3/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](discordapp.com/users/524146706393071626)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/ayusharma3/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](discordapp.com/users/524146706393071626) 
 
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayusharma3"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://discordapp.com/users/524146706393071626"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
+  <a href="https://medium.com/@ayusharma14122003"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
+  <a href="https://steamcommunity.com/profiles/76561199047128081"><img src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam"/></a>
+</p>
 ## 🏆 LeetCode
 
 ![](https://leetcard.jacoblin.cool/ayusharma03?ext=activity)
