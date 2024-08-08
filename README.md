@@ -2,7 +2,7 @@
 
 ## <img src="https://gifdb.com/images/high/hello-madagascar-penguin-7pernnlu5b6aad3y.gif" align="left" width="80" height="80"/>  <div align="left">‎ ‎ ‎ ‎ ‎ ‎ I'm Ayush, a full-time full-stack, Computer Science Student👨‍💻</div>
   <br><br>
-<img src="https://github.com/user-attachments/assets/cdf6c06f-9cdf-4990-bb98-b903501ed824" align="right" height="200">
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" align="right" height="220">
 
 
   
@@ -25,7 +25,7 @@
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a> 
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 </div>
@@ -46,6 +46,7 @@
 ### Languages
 
 <div align="center">  
+  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
@@ -64,18 +65,19 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/ayusharma3/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](discordapp.com/users/524146706393071626) 
-
-
 <p align="center">
   <a href="https://www.linkedin.com/in/ayusharma3"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://discordapp.com/users/524146706393071626"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
+  <a href="https://discordapp.com/users/ayusharma."><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
   <a href="https://medium.com/@ayusharma14122003"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
   <a href="https://steamcommunity.com/profiles/76561199047128081"><img src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam"/></a>
 </p>
+
+
 ## 🏆 LeetCode
 
 ![](https://leetcard.jacoblin.cool/ayusharma03?ext=activity)
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200">
+
 
 # 📊 GitHub Stats:
 
