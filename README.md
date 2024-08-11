@@ -1,6 +1,6 @@
 
 
-## <img src="https://gifdb.com/images/high/hello-madagascar-penguin-7pernnlu5b6aad3y.gif" align="left" width="80" height="80"/>  <div align="left">‎ ‎ ‎ ‎ ‎ ‎ I'm Ayush, a full-time full-stack, Computer Science Student👨‍💻</div>
+## <img src="https://gifdb.com/images/high/hello-madagascar-penguin-7pernnlu5b6aad3y.gif" align="left" width="80" height="80"/>  <div align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=FC9D70&width=435&lines=%F0%9F%99%8F+I'm+Ayush+a+full-time+full-stack;+Computer+Science+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Student)](https://git.io/typing-svg)</div>
   <br><br>
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" align="right" height="220">
 
@@ -82,6 +82,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=ayusharma03&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)            ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayusharma03&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 
+# 🤝 Comtributions:
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200" height="5">
 
 ### 🔝 Top Contributed Repo
