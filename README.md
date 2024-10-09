@@ -82,10 +82,10 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=ayusharma03&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)            ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayusharma03&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 
-# 🤝 Contributions:
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200" height="5">
 
-### 🔝 Top Contributed Repo
-## ![](github-user-contribution.svg)
+
+# 🤝 Contributions:
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ayusharma03/ayusharma03/output/github-contribution-grid-snake-dark-custom.svg">
 
 [![](https://visitcount.itsvg.in/api?id=ayusharma03&icon=2&color=6)](https://visitcount.itsvg.in)
