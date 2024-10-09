@@ -82,7 +82,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=ayusharma03&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)            ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayusharma03&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 
-# 🤝 Comtributions:
+# 🤝 Contributions:
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200" height="5">
 
 ### 🔝 Top Contributed Repo
