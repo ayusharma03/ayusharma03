@@ -71,13 +71,6 @@
   <a href="https://steamcommunity.com/profiles/76561199047128081"><img src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam"/></a>
 </p>
 
-
-## 🏆 LeetCode
-
-![](https://leetcard.jacoblin.cool/ayusharma03?ext=activity)
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200">
-
-
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=ayusharma03&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)            ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayusharma03&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
